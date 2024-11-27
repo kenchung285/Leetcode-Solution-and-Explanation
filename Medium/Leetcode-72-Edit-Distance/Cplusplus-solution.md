@@ -1,10 +1,10 @@
-# 72 Edit Distance
+# Leetcode 72 Edit Distance
 
  - **Dynamic Programming**
  - **Medium**
 
 ## Performance
-![performance](image.png)
+![performance](assets/performance.png)
 
 ## Compexity
  * Time complexity : $O(n^2)$
@@ -44,7 +44,7 @@ The we can have the following inferences:
 
 So we can construct a table like:
 
-![Table](image-1.png)
+![Table](assets/illustration.png)
 
 ## Improvement
 
@@ -85,4 +85,4 @@ public:
 ```
 
 ### p.s.
-The problem is originally a Hard level problem, and became Medium level problem.
+The problem is originally a `Hard level` problem, and became `Medium level` problem.

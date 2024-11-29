@@ -4,7 +4,7 @@
  - **Medium**
 
 ## Performance
-![performance](assets/performance.png)
+![performance](assets/Cplusplus-performance.png)
 
 ## Compexity
  * Time complexity : $O(n^2)$

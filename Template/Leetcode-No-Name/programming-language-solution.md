@@ -4,7 +4,7 @@
  - **Level**
 
 ## Performance
-![performance](assets/template.png)
+![performance](assets/template-performance.png)
 
 ## Complexity
  * Time complexity : $O()$
